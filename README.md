@@ -1,7 +1,7 @@
 AR-GAZ
 
 Description:  
-This website was designed and developed by me to provide a professional online presence for the company. 
+This website was designed and developed by me to provide a professional online presence for the company. You can visit the live site here: https://ar-gaz.pl
 
 Technologies: 
 This project utilizes the following technologies:
